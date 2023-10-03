@@ -30,5 +30,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=xDEK0x&icon=0&color=12)](https://visitcount.itsvg.in)
 </div>
-
-![snake gif](https://github.com/xDEK0x/xDEK0x/blob/output/github-contribution-grid-snake.gif)
